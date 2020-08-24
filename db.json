@@ -1,5 +1,5 @@
 {
-    "artwork": [
+    "artcloud-artwork": [
         {
             "id": 1,
             "artist_first_name": "Salvador",
@@ -79,6 +79,7 @@
             "unit": "cm"
         }
     ],
+    "room-artwork": [],
     "rooms": [],
     "lights": [],
     "light-types": []
