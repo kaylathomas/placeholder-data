@@ -78,5 +78,8 @@
             "depth": null,
             "unit": "cm"
         }
-    ]
+    ],
+    "rooms": [],
+    "lights": [],
+    "light-types" []
 }
