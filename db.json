@@ -79,8 +79,31 @@
             "unit": "cm"
         }
     ],
-    "room-artwork": [],
-    "rooms": [],
+    "room-artwork": [
+        {
+            "id":1,
+            "roomId":1,
+            "artcloud-artworkId":1
+        },
+        {
+            "id":2,
+            "roomId":1,
+            "artcloud-artworkId":2
+        },
+        {
+            "id":3,
+            "roomId":1,
+            "artcloud-artworkId":4
+        },
+    ],
+    "rooms": [
+        { 
+            "id":1,
+            "base_length": 5,
+            "base_width": 10,
+            "unit": "feet"
+        }
+    ],
     "lights": [],
     "light-types": []
 }
