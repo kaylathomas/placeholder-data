@@ -1,0 +1,82 @@
+{
+    "artwork": [
+        {
+            "id": 1,
+            "artist_first_name": "Salvador",
+            "artist_last_name": "Dali",
+            "title": "The Great Masturbator",
+            "image": "https://uploads2.wikiart.org/images/salvador-dali/the-great-masturbator-1929.jpg!Large.jpg",
+            "price": "10,000",
+            "price_override": null,
+            "width": 110,
+            "height": 150,
+            "depth": null,
+            "unit": "cm"
+        },
+        {
+            "id": 2,
+            "artist_first_name": "Salvador",
+            "artist_last_name": "Dali",
+            "title": "The Persistence of Memory",
+            "image": "https://uploads6.wikiart.org/images/salvador-dali/the-persistence-of-memory-1931.jpg!Large.jpg",
+            "price": "6,000",
+            "price_override": null,
+            "width": 24.1,
+            "height": 33,
+            "depth": null,
+            "unit": "cm"
+        },
+        {
+            "id": 3,
+            "artist_first_name": "Salvador",
+            "artist_last_name": "Dali",
+            "title": "Dream Caused by the Flight of a Bee around a Pomegranate a Second before Awakening",
+            "image": "https://uploads6.wikiart.org/images/salvador-dali/dream-caused-by-the-flight-of-a-bee-around-a-pomegranate-one-second-before-awakening.jpg!Large.jpg",
+            "price": "15,000",
+            "price_override": "SOLD",
+            "width": 51,
+            "height": 41,
+            "depth": null,
+            "unit": "cm"
+        },
+        {
+            "id": 4,
+            "artist_first_name": "Frida",
+            "artist_last_name": "Kahlo",
+            "title": "The Wounded Deer",
+            "image": "https://uploads7.wikiart.org/images/magdalena-carmen-frieda-kahlo-y-calderón-de-rivera/the-wounded-deer-1946.jpg!Large.jpg",
+            "price": "20,000",
+            "price_override": "SOLD",
+            "width": 22.4,
+            "height": 30,
+            "depth": null,
+            "unit": "cm"
+        },
+        {
+            "id": 5,
+            "artist_first_name": "Frida",
+            "artist_last_name": "Kahlo",
+            "title": "Self Portrait with Curly Hair",
+            "image": "https://uploads2.wikiart.org/images/magdalena-carmen-frieda-kahlo-y-calderón-de-rivera/self-portrait-with-curly-hair-1935.jpg!Large.jpg",
+            "price": "15,000",
+            "price_override": "SOLD",
+            "width": 19.3,
+            "height": 14.7,
+            "depth": null,
+            "unit": "cm"
+        },
+        {
+            "id": 6,
+            "artist_first_name": "Frida",
+            "artist_last_name": "Kahlo",
+            "title": "Self Portrait Dedicated to Sigmund Firestone",
+            "image": "https://uploads8.wikiart.org/images/magdalena-carmen-frieda-kahlo-y-calderón-de-rivera/self-portrait-dedicated-to-sigmund-firestone-1940.jpg!Large.jpg",
+            "price": "15,000",
+            "price_override": "25,000",
+            "width": 61,
+            "height": 43,
+            "depth": null,
+            "unit": "cm"
+        }
+    ]
+}
